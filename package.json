@@ -1,15 +1,23 @@
 {
-  "dependencies": {
-    "discord.js": "^13.8.0",
-    "dotenv": "^16.0.1"
-  },
   "name": "botdiscord",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Lucas Gest",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasGest/Sparkle.git"
+  },
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "description": "Bot Discord.js v13"
+  "bugs": {
+    "url": "https://github.com/LucasGest/Sparkle/issues"
+  },
+  "homepage": "https://github.com/LucasGest/Sparkle#readme",
+  "dependencies": {
+    "discord.js": "^13.8.0"
+  }
 }
